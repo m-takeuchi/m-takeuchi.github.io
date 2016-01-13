@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitsuaki Takeuchi&#39;s Web Site</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on Mitsuaki Takeuchi&#39;s Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
+    <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
+    <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
+    <lastBuildDate>Tue, 12 Jan 2016 10:52:35 +0900</lastBuildDate>
+    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>blogのテスト</title>
+      <link>http://www.example.com/2016/01/12/test/</link>
+      <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://www.example.com/2016/01/12/test/</guid>
+      <description>
+
+&lt;h1 id=&#34;hugoを使ったblog作成のテスト&#34;&gt;Hugoを使ったBlog作成のテスト&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
