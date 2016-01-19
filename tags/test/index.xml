@@ -13,14 +13,12 @@
     <atom:link href="http://m-takeuchi.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>blogのテスト</title>
+      <title>サイトの立ち上げ</title>
       <link>http://m-takeuchi.github.io/2016/01/12/test/</link>
       <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/12/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;hugoを使ったblog作成のテスト:ec3bfaff7cc547877a2fb783349a286b&#34;&gt;Hugoを使ったBlog作成のテスト&lt;/h1&gt;
+      <description>&lt;p&gt;HugoとGithub Pagesでウェブサイトをはじめました.&lt;/p&gt;
 </description>
     </item>
     

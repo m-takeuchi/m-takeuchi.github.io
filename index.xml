@@ -9,8 +9,28 @@
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
-    <lastBuildDate>Fri, 15 Jan 2016 08:30:30 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2016 13:49:02 +0900</lastBuildDate>
     <atom:link href="http://m-takeuchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>AboutMe, Researchページの追加</title>
+      <link>http://m-takeuchi.github.io/2016/01/19/update/</link>
+      <pubDate>Tue, 19 Jan 2016 13:49:02 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2016/01/19/update/</guid>
+      <description>&lt;p&gt;AboutMe, Research のページを追加･更新.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atomエディター</title>
+      <link>http://m-takeuchi.github.io/2016/01/17/atom/</link>
+      <pubDate>Sun, 17 Jan 2016 22:26:56 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2016/01/17/atom/</guid>
+      <description>&lt;p&gt;hoge&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Publications</title>
@@ -103,17 +123,17 @@
 &lt;h1 id=&#34;research-themes:42f623b3bad309d5d6619d450af47d40&#34;&gt;Research Themes&lt;/h1&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Development of Ionic Liquid Ion Source (ILIS)&lt;/li&gt;
-&lt;li&gt;Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces&lt;/li&gt;
-&lt;li&gt;Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/ilis_dev&#34;&gt;Development of Ionic Liquid Ion Sorce (ILIS)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/irra_eff&#34;&gt;Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/appl&#34;&gt;Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;研究テーマ:42f623b3bad309d5d6619d450af47d40&#34;&gt;研究テーマ&lt;/h2&gt;
 
 &lt;ol&gt;
-&lt;li&gt;イオン液体イオン源(ILIS)の開発&lt;/li&gt;
-&lt;li&gt;固体表面に対するイオン液体イオンビームの照射効果&lt;/li&gt;
-&lt;li&gt;イオン液体イオンビームのSIMSやメタルフリーFIBへの応用&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/ilis_dev&#34;&gt;イオン液体イオン源(ILIS)の開発&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/irra_eff&#34;&gt;固体表面に対するイオン液体イオンビームの照射効果&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://m-takeuchi.github.io/research/appl&#34;&gt;イオン液体イオンビームのSIMSやメタルフリーFIBへの応用&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -124,23 +144,149 @@
       <pubDate>Fri, 15 Jan 2016 07:19:01 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/aboutme/</guid>
-      <description>&lt;p&gt;Photo here&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://m-takeuchi.github.io/my_photo.jpg&#34; alt=&#34;photo&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mitsuaki Takeuchi,&lt;/strong&gt; Ph.D.&lt;/p&gt;
 
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;CONTACT: m-takeuchi@kuee.kyoto-u.ac.jp&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;EXPERIENCE&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Affiliation&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Position&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April, 2008 &amp;ndash;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Kyoto University, Photonics and Electronics Science and Engineering Center&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Research Associate&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April, 2006 &amp;ndash; March, 2008&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;JST, Innovation Plaza Kyoto, Ishikawa Project&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;PostDoc&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;EDUCATION&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Affiliation&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;Degree&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April, 2003 &amp;ndash; March, 2006&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tokai Universiy, Graduate School of Engineering, Course of Applied Science&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Ph.D. in Engineering&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April, 2001 &amp;ndash; March, 2003&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tokai Universiy, Graduate School of Engineering, Course of Applied Science&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;M.S. in Engineering&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;April, 1997 &amp;ndash; March, 2001&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;Tokai Universiy, School of Engineering, Department of Applied Physics&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;B.S. in Engineering&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
 &lt;p&gt;&lt;strong&gt;竹内 光明&lt;/strong&gt; 博士(工学)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;職歴&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;期間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;所属&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;職位&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2008年4月 &amp;ndash;&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;京都大学大学院工学研究科附属光･電子理工学教育研究センター&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;助教&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2006年4月 &amp;ndash; 2008年3月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;JSTイノベーションプラザ京都 石川プロジェクト&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;博士研究員&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+&lt;li&gt;学歴&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;期間&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;所属&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;学位&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2003年4月 &amp;ndash; 2006年3月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;東海大学大学院工学研究科応用理学専攻博士課程後期&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;博士(工学)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;2001年4月 &amp;ndash; 2003年3月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;東海大学大学院工学研究科応用理学専攻博士課程前期&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;修士(工学)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;1997年4月 &amp;ndash; 2001年3月&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;東海大学工学部応用物理学科&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;学士(工学)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
     <item>
-      <title>blogのテスト</title>
+      <title>サイトの立ち上げ</title>
       <link>http://m-takeuchi.github.io/2016/01/12/test/</link>
       <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/12/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;hugoを使ったblog作成のテスト:ec3bfaff7cc547877a2fb783349a286b&#34;&gt;Hugoを使ったBlog作成のテスト&lt;/h1&gt;
+      <description>&lt;p&gt;HugoとGithub Pagesでウェブサイトをはじめました.&lt;/p&gt;
 </description>
     </item>
     

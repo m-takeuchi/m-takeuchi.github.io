@@ -9,18 +9,36 @@
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
-    <lastBuildDate>Tue, 12 Jan 2016 10:52:35 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2016 13:49:02 +0900</lastBuildDate>
     <atom:link href="http://m-takeuchi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>blogのテスト</title>
+      <title>AboutMe, Researchページの追加</title>
+      <link>http://m-takeuchi.github.io/2016/01/19/update/</link>
+      <pubDate>Tue, 19 Jan 2016 13:49:02 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2016/01/19/update/</guid>
+      <description>&lt;p&gt;AboutMe, Research のページを追加･更新.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atomエディター</title>
+      <link>http://m-takeuchi.github.io/2016/01/17/atom/</link>
+      <pubDate>Sun, 17 Jan 2016 22:26:56 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2016/01/17/atom/</guid>
+      <description>&lt;p&gt;hoge&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>サイトの立ち上げ</title>
       <link>http://m-takeuchi.github.io/2016/01/12/test/</link>
       <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/12/test/</guid>
-      <description>
-
-&lt;h1 id=&#34;hugoを使ったblog作成のテスト:ec3bfaff7cc547877a2fb783349a286b&#34;&gt;Hugoを使ったBlog作成のテスト&lt;/h1&gt;
+      <description>&lt;p&gt;HugoとGithub Pagesでウェブサイトをはじめました.&lt;/p&gt;
 </description>
     </item>
     
