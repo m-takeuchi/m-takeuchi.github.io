@@ -9,18 +9,58 @@
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
-    <lastBuildDate>Tue, 23 Feb 2016 14:28:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2016 14:28:15 +0900</lastBuildDate>
     <atom:link href="http://m-takeuchi.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>ilis_dev</title>
+      <title>Interaction between ionic liquid ion beams and solid surfaces</title>
+      <link>http://m-takeuchi.github.io/irra_eff/</link>
+      <pubDate>Tue, 23 Feb 2016 14:28:15 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/irra_eff/</guid>
+      <description>
+
+&lt;h2 id=&#34;照射効果って何&#34;&gt;照射効果って何?&lt;/h2&gt;
+
+&lt;h2 id=&#34;固体表面への照射効果がわかると何がうれしいの&#34;&gt;固体表面への照射効果がわかると何がうれしいの?&lt;/h2&gt;
+
+&lt;h2 id=&#34;シリコン-si-表面へのイオン液体イオンビーム照射効果&#34;&gt;シリコン(Si)表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
+
+&lt;h2 id=&#34;無アルカリ硼ケイ酸ガラス表面へのイオン液体イオンビーム照射効果&#34;&gt;無アルカリ硼ケイ酸ガラス表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
+
+&lt;h2 id=&#34;サファイア表面へのイオン液体イオンビーム照射効果&#34;&gt;サファイア表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
+
+&lt;h2 id=&#34;ポリスチレン-ps-表面へのイオン液体イオンビーム照射効果&#34;&gt;ポリスチレン(PS)表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Ionic Liquid Ion Beam</title>
+      <link>http://m-takeuchi.github.io/appl/</link>
+      <pubDate>Tue, 23 Feb 2016 14:28:07 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/appl/</guid>
+      <description>
+
+&lt;h2 id=&#34;イオンビームって何に使えるの&#34;&gt;イオンビームって何に使えるの?&lt;/h2&gt;
+
+&lt;h2 id=&#34;イオン液体イオンビームによるメタルフリー収束イオンビーム-fib&#34;&gt;イオン液体イオンビームによるメタルフリー収束イオンビーム(FIB)&lt;/h2&gt;
+
+&lt;h2 id=&#34;イオン液体イオンビームによるメタルフリー二次イオン質量分析-sims&#34;&gt;イオン液体イオンビームによるメタルフリー二次イオン質量分析(SIMS)&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of Ionic Liquid Ion Source</title>
       <link>http://m-takeuchi.github.io/ilis_dev/</link>
       <pubDate>Tue, 23 Feb 2016 14:28:00 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/ilis_dev/</guid>
       <description>
 
-&lt;h2 id=&#34;hogehoge&#34;&gt;hogehoge&lt;/h2&gt;
+&lt;h2 id=&#34;イオン液体って何:a10dc71c0de262bc887f9342b4ffcc84&#34;&gt;イオン液体って何?&lt;/h2&gt;
+
+&lt;h2 id=&#34;イオン液体をイオンビームにすると何がうれしいの:a10dc71c0de262bc887f9342b4ffcc84&#34;&gt;イオン液体をイオンビームにすると何がうれしいの?&lt;/h2&gt;
 </description>
     </item>
     
@@ -52,11 +92,11 @@
       <guid>http://m-takeuchi.github.io/publications/</guid>
       <description>
 
-&lt;h2 id=&#34;researchgate-net&#34;&gt;ResearchGate.net&lt;/h2&gt;
+&lt;h2 id=&#34;researchgate-net:480c4de99851329b51acecc000e2e84f&#34;&gt;ResearchGate.net&lt;/h2&gt;
 
 &lt;p&gt;My ResearchGate.net site is &lt;a href=&#34;https://www.researchgate.net/profile/Mitsuaki_Takeuchi&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&#34;peer-reviewed-papers&#34;&gt;Peer-reviewed papers&lt;/h2&gt;
+&lt;h2 id=&#34;peer-reviewed-papers:480c4de99851329b51acecc000e2e84f&#34;&gt;Peer-reviewed papers&lt;/h2&gt;
 
 &lt;ol&gt;
 &lt;li&gt;M. Takeuchi, Y. Hoshide, H. Ryuto and G. H. Takaoka, “Sputtering of silicon and glass substrates with polyatomic molecular ion beams generated from ionic liquids,” Journal of Vacuum Science &amp;amp; Technology A 34 (2016) (accepted).&lt;/li&gt;
