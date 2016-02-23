@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research on Mitsuaki Takeuchi&#39;s Web Site</title>
-    <link>http://m-takeuchi.github.io/tags/research/</link>
-    <description>Recent content in Research on Mitsuaki Takeuchi&#39;s Web Site</description>
+    <title>Researches on Mitsuaki Takeuchi&#39;s Web Site</title>
+    <link>http://m-takeuchi.github.io/research/</link>
+    <description>Recent content in Researches on Mitsuaki Takeuchi&#39;s Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
     <lastBuildDate>Tue, 23 Feb 2016 14:28:15 +0900</lastBuildDate>
-    <atom:link href="http://m-takeuchi.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://m-takeuchi.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Interaction between ionic liquid ion beams and solid surfaces</title>
@@ -61,16 +61,6 @@
 &lt;h3 id=&#34;イオン液体って何&#34;&gt;イオン液体って何?&lt;/h3&gt;
 
 &lt;h3 id=&#34;イオン液体をイオンビームにすると何がうれしいの&#34;&gt;イオン液体をイオンビームにすると何がうれしいの?&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AboutMe, Researchページの追加</title>
-      <link>http://m-takeuchi.github.io/2016/01/19/update/</link>
-      <pubDate>Tue, 19 Jan 2016 13:49:02 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/2016/01/19/update/</guid>
-      <description>&lt;p&gt;AboutMe, Research のページを追加･更新.&lt;/p&gt;
 </description>
     </item>
     
