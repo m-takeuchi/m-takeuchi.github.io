@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topics on Mitsuaki Takeuchi&#39;s Web Site</title>
+    <link>http://m-takeuchi.github.io/topics/</link>
+    <description>Recent content in Topics on Mitsuaki Takeuchi&#39;s Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
+    <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
+    <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
+    
+	<atom:link href="http://m-takeuchi.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

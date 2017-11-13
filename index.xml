@@ -9,8 +9,19 @@
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
-    <lastBuildDate>Tue, 23 Feb 2016 14:28:15 +0900</lastBuildDate>
-    <atom:link href="http://m-takeuchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Nov 2017 17:23:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://m-takeuchi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 11 13_hisashiburi</title>
+      <link>http://m-takeuchi.github.io/2017/11/13/2017-11-13_hisashiburi/</link>
+      <pubDate>Mon, 13 Nov 2017 17:23:04 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2017/11/13/2017-11-13_hisashiburi/</guid>
+      <description> ひさしぶりにhugoを使うので全く忘れてしまった.  test, test  </description>
+    </item>
     
     <item>
       <title>Interaction between ionic liquid ion beams and solid surfaces</title>
@@ -18,20 +29,7 @@
       <pubDate>Tue, 23 Feb 2016 14:28:15 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/research/irra_eff/</guid>
-      <description>
-
-&lt;h2 id=&#34;照射効果って何:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;照射効果って何?&lt;/h2&gt;
-
-&lt;h2 id=&#34;固体表面への照射効果がわかると何がうれしいの:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;固体表面への照射効果がわかると何がうれしいの?&lt;/h2&gt;
-
-&lt;h2 id=&#34;シリコン-si-表面へのイオン液体イオンビーム照射効果:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;シリコン(Si)表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
-
-&lt;h2 id=&#34;無アルカリ硼ケイ酸ガラス表面へのイオン液体イオンビーム照射効果:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;無アルカリ硼ケイ酸ガラス表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
-
-&lt;h2 id=&#34;サファイア表面へのイオン液体イオンビーム照射効果:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;サファイア表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
-
-&lt;h2 id=&#34;ポリスチレン-ps-表面へのイオン液体イオンビーム照射効果:001e5d42bb50f7bb51b52c1cfb8b3104&#34;&gt;ポリスチレン(PS)表面へのイオン液体イオンビーム照射効果&lt;/h2&gt;
-</description>
+      <description> 照射効果って何? 固体表面への照射効果がわかると何がうれしいの? シリコン(Si)表面へのイオン液体イオンビーム照射効果 無アルカリ硼ケイ酸ガラス表面へのイオン液体イオンビーム照射効果 サファイア表面へのイオン液体イオンビーム照射効果 ポリスチレン(PS)表面へのイオン液体イオンビーム照射効果 </description>
     </item>
     
     <item>
@@ -40,14 +38,7 @@
       <pubDate>Tue, 23 Feb 2016 14:28:07 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/research/appl/</guid>
-      <description>
-
-&lt;h2 id=&#34;イオンビームって何に使えるの:c03fab59998ab8eef511d7d40abb9eeb&#34;&gt;イオンビームって何に使えるの?&lt;/h2&gt;
-
-&lt;h2 id=&#34;イオン液体イオンビームによるメタルフリー収束イオンビーム-fib:c03fab59998ab8eef511d7d40abb9eeb&#34;&gt;イオン液体イオンビームによるメタルフリー収束イオンビーム(FIB)&lt;/h2&gt;
-
-&lt;h2 id=&#34;イオン液体イオンビームによるメタルフリー二次イオン質量分析-sims:c03fab59998ab8eef511d7d40abb9eeb&#34;&gt;イオン液体イオンビームによるメタルフリー二次イオン質量分析(SIMS)&lt;/h2&gt;
-</description>
+      <description> イオンビームって何に使えるの? イオン液体イオンビームによるメタルフリー収束イオンビーム(FIB) イオン液体イオンビームによるメタルフリー二次イオン質量分析(SIMS) </description>
     </item>
     
     <item>
@@ -56,12 +47,7 @@
       <pubDate>Tue, 23 Feb 2016 14:28:00 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/research/ilis_dev/</guid>
-      <description>
-
-&lt;h3 id=&#34;イオン液体って何&#34;&gt;イオン液体って何?&lt;/h3&gt;
-
-&lt;h3 id=&#34;イオン液体をイオンビームにすると何がうれしいの&#34;&gt;イオン液体をイオンビームにすると何がうれしいの?&lt;/h3&gt;
-</description>
+      <description> イオン液体って何? イオン液体をイオンビームにすると何がうれしいの? </description>
     </item>
     
     <item>
@@ -70,8 +56,7 @@
       <pubDate>Tue, 19 Jan 2016 13:49:02 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/19/update/</guid>
-      <description>&lt;p&gt;AboutMe, Research のページを追加･更新.&lt;/p&gt;
-</description>
+      <description>AboutMe, Research のページを追加･更新.</description>
     </item>
     
     <item>
@@ -80,8 +65,7 @@
       <pubDate>Sun, 17 Jan 2016 22:26:56 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/17/atom/</guid>
-      <description>&lt;p&gt;hoge&lt;/p&gt;
-</description>
+      <description>hoge</description>
     </item>
     
     <item>
@@ -90,85 +74,8 @@
       <pubDate>Fri, 15 Jan 2016 08:30:30 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/publications/</guid>
-      <description>
-
-&lt;h2 id=&#34;researchgate-net:480c4de99851329b51acecc000e2e84f&#34;&gt;ResearchGate.net&lt;/h2&gt;
-
-&lt;p&gt;My ResearchGate.net site is &lt;a href=&#34;https://www.researchgate.net/profile/Mitsuaki_Takeuchi&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;peer-reviewed-papers:480c4de99851329b51acecc000e2e84f&#34;&gt;Peer-reviewed papers&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;M. Takeuchi, Y. Hoshide, H. Ryuto and G. H. Takaoka, “Sputtering of silicon and glass substrates with polyatomic molecular ion beams generated from ionic liquids,” Journal of Vacuum Science &amp;amp; Technology A 34 (2016) (accepted).&lt;/li&gt;
-&lt;li&gt;F. Musumeci, H. Ryuto, A. Sakata, M. Takeuchi and G. H. Takaoka, “Spectroscopic evidences of high temperatures and pressures during the cluster ion beam interaction with solid surfaces,” Journal of Luminescence 172, 224&amp;ndash;230 (2016).&lt;/li&gt;
-&lt;li&gt;A. Fujita, Y. Matsumoto, M. Takeuchi, H. Ryuto and G. H. Takaoka, “Growth behavior of gold nanoparticles synthesized in unsaturated fatty acids by vacuum evaporation methods,” Phys. Chem. Chem. Phys. (2016).&lt;/li&gt;
-&lt;li&gt;H. Ryuto, F. Musumeci, A. Sakata, M. Takeuchi, and G. H. Takaoka, “Spectrometer for cluster ion beam induced luminescence.,” Rev. Sci. Instrum., vol. 86, no. 2, p. 023106, Feb. 2015.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Hoshide, T. Hamaguchi, H. Ryuto, and G. H. Takaoka, “Ion-Beam Deposition/Etching Using EMIM-N(CN)&lt;sub&gt;2&lt;/sub&gt; Ionic Liquid Ion Source,” Trans. Mat. Res. Soc. Japan, vol. 40, no. 2, pp. 87–90, 2015.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, M. Takeuchi, H. Ryuto, K. Imanaka, and K. Hayashi, “Interactions of fragment ions of tetradecane with solid surfaces,” Nuclear Inst. and Methods in Physics Research, vol. 341, pp. 48–52, Dec. 2014.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, T. Hamaguchi, M. Takeuchi, and H. Ryuto, “Surface modification using ionic liquid ion beams,” Nuclear Inst. and Methods in Physics Research, vol. 341, pp. 32–36, Dec. 2014.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, M. Takeuchi, and H. Kobayashi, “Irradiation effect of gas-hydrate cluster ions on solid surfaces,” Nuclear Inst. and Methods in Physics Research, vol. 326, pp. 190–194, May 2014.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, K. Hayashi, K. Imanaka, H. Ryuto, and G. H. Takaoka, “Low fragment polyatomic molecular ion source by using permanent magnetsa),” Rev. Sci. Instrum., vol. 85, no. 2, p. 02A502, Feb. 2014.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, K. Hayashi, K. Imanaka, H. Ryuto, and G. H. Takaoka, “Low fragment polyatomic molecular ion source by using permanent magnets.,” Rev. Sci. Instrum., vol. 85, no. 2, p. 02A502, Feb. 2014.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, R. Tsujinaka, M. Takeuchi, H. Ryuto, and H. Tsuji, “Mesenchymal Stem Cell Adhesion on Metal and Polymeric Surfaces Modified by Oxygen Cluster Ion Irradiation,” Trans. Mat. Res. Soc. Japan, vol. 39, no. 4, pp. 459–463, 2014.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, Y. Ohmura, M. Nakagawa, M. Takeuchi, and G. H. Takaoka, “Interaction between water cluster ions and mica surface,” J. Vac. Sci. Technol. A, vol. 32, no. 2, p. 02, 2014.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, Y. Kakumoto, S. Itozaki, M. Takeuchi, and G. H. Takaoka, “Acetone cluster ion beam irradiation on solid surfaces,” Nuclear Instruments and Methods in Physics Research B, vol. 315, pp. 231–233, Nov. 2013.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, G. Ichihashi, M. Takeuchi, and G. H. Takaoka, “Surface reaction between water cluster ion and silicon substrate,” Nuclear Instruments and Methods in Physics Research B, vol. 315, pp. 227–230, Nov. 2013.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Hamaguchi, H. Ryuto, and G. H. Takaoka, “Irradiation of ionic liquid ion beams on silicon and glass substrates,” Nuclear Instruments and Methods in Physics Research B, vol. 315, pp. 234–239, Nov. 2013.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Hamaguchi, H. Ryuto, and G. H. Takaoka, “Development of ionic liquid ion source with porous emitter for surface modification,” Nuclear Instruments and Methods in Physics Research B, vol. 315, pp. 345–349, Nov. 2013.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, F. Musumeci, A. Sakata, M. Takeuchi, and G. H. Takaoka, “Equipment to detect luminescence induced by cluster ion collisiona),” Rev. Sci. Instrum., vol. 85, no. 2, p. 02C303, Oct. 2013.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, Y. Kakumoto, M. Takeuchi, and G. H. Takaoka, “Characteristics of acetone cluster ion beam for surface processing and modificationa),” Rev. Sci. Instrum., vol. 85, no. 2, p. 02C301, Oct. 2013.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, M. Takeuchi, H. Ryuto, and R. Ueda, “Production and irradiation of ionic liquid cluster ions,” Nuclear Instruments and Methods in Physics Research B, vol. 307, pp. 257–259, Jul. 2013.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Hamaguchi, H. Ryuto, and G. H. Takaoka, “Development of high-current ionic liquid ion source toward surface modification,” MRS Online Proceedings Library, vol. 1575, pp. mrss13–1575–vv03–08, Jan. 2013.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, G. Ichihashi, M. Takeuchi, and G. H. Takaoka, “Irradiation effects of water cluster ion beam on PMMA surface,” Vaccum, vol. 87, pp. 119–122, Jan. 2013.&lt;/li&gt;
-&lt;li&gt;Y. Yoneda, S. Kohara, M. Ito, H. Abe, M. Takeuchi, H. Uchida, and Y. Matsumura, “Local Structure Analysis of SmFe2 and TbFe2,” Trans. Mat. Res. Soc. Japan, vol. 38, no. 1, pp. 109–112, 2013.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, Y. Ohmura, M. Takeuchi, and G. H. Takaoka, “Irradiation Effects of Ethanol Cluster Ion Beam on Mica Surface,” Trans. Mat. Res. Soc. Japan, vol. 38, no. 1, pp. 93–96, 2013.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, M. Takeuchi, and G. Ichihashi, “Surface processing using water cluster ion beams,” Nuclear Inst. and Methods in Physics Research, B, vol. 307, pp. 33–36, 2013.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Hamaguchi, and H. Ryuto, “Surface smoothing of glass substrate by irradiation of ionic liquid ion beams,” MRS Online Proceedings Library, vol. 1575, pp. mrss13–1575–vv05–08, 2013.&lt;/li&gt;
-&lt;li&gt;K. Imanaka, M. Takeuchi, H. Ryuto, and G. H. Takaoka, “Molecular mass dependence of irradiation effects on silicon surface by normal hydrocarbon ion beams,” Technical report of IEICE. SDM, vol. 112, no. 337, pp. 31–35, Nov. 2012.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, and M. Takeuchi, “Surface irradiation and materials processing using polyatomic cluster ion beams,” J. Mater. Res., vol. 27, no. 5, pp. 806–821, Jan. 2012.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Hamaguchi, H. Ryuto, and G. H. Takaoka, “Irradiation of Ionic Liquid Ion Beams on Silicon and Glass Substrates,” Nuclear Inst. and Methods in Physics Research, B, 2012.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, Y. Kubo, and M. Takeuchi, “Chemical erosion and sputtering of solid surfaces with liquid cluster ions,” Surface &amp;amp; Coatings Technology, vol. 206, no. 5, pp. 845–848, Nov. 2011.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, R. Ozaki, H. Mukai, and M. Takeuchi, “Micro-patterning of Si(100) surfaces by ethanol cluster ion beams,” Surface &amp;amp; Coatings Technology, vol. 206, no. 5, pp. 869–873, Nov. 2011.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, M. Takeuchi, and H. Mukai, “Surface Processing by Polyatomic Cluster Ion Beams,” e-J. Surf. Sci. Nanotech., vol. 9, pp. 168–172, 2011.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, G. Ichihashi, H. Ryuto, and M. Takeuchi, “Chemical Modification of Solid Surfaces at Nano-level by Water Cluster Ion Irradiation,” e-J. Surf. Sci. Nanotech., vol. 9, pp. 163–167, 2011.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, H. Ryuto, M. Takeuchi, and H. Mukai, “Surface Processing by Polyatomic Cluster Ion Beams,” e-J. Surf. Sci. Nanotech., vol. 9, pp. 168–172, 2011.&lt;/li&gt;
-&lt;li&gt;J. Ishikawa, Y. Gotoh, M. Takeuchi, S. Taguchi, D. Nicolaescu, H. Tsuji, T. Kimoto, and S. Sakai, “Suppression of Divergence of Low Energy Ion Beams by Space Charge Neutralization with Low Energy Electrons Emitted from Field Emitter Arrays,” American Institute of Physics Conference Series, vol. 1321, pp. 496–499, 2011.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, H. Ryuto, and G. H. Takaoka, “Fabrication of Impregnated‐Electrode‐Type Polyatomic Ion Source with Ionic Liquid,” AIP Conference Proceedings, vol. 1321, p. 456, 2011.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, H. Ryuto, and G. H. Takaoka, “CARBON IMPLANTATION BY POLYATOMIC ION SOURCE OF ORGANIC LIQUIDS,” Proceedings of IPAC’10, no. 100, pp. 136–138, Jun. 2010.&lt;/li&gt;
-&lt;li&gt;H. Ryuto, R. Ozaki, Y. Kubo, M. Takeuchi, and G. H. Takaoka, “Characteristics of liquid cluster ion beam for surface treatment.,” Rev. Sci. Instrum., vol. 81, no. 2, p. 02B902, Feb. 2010.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, M. Takeuchi, and H. Ryuto, “Sources of polyatomic ions of organic liquids.,” Rev. Sci. Instrum., vol. 81, no. 2, p. 02B302, Feb. 2010.&lt;/li&gt;
-&lt;li&gt;G. H. Takaoka, M. Takeuchi, and H. Ryuto, “Sources of polyatomic ions of organic liquids,” Rev. Sci. Instrum., vol. 81, no. 2, p. 02B302, 2010.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Gotoh, H. Tsuji, J. Ishikawa, and S. Sakai, “Metal-free and gasless space charge compensation of low energy ion beam by using surface-carbonized silicon field emitter array,” J. Vac. Sci. Technol. B, vol. 28, no. 2, p. C2D5, 2010.&lt;/li&gt;
-&lt;li&gt;K. Makita, M. Takeuchi, M. Sato, H. Uchida, and Y. Matsumura, “An ion momentum as a novel parameter for the preparation of the magnetostrictive thin film,” Applied Surface Science, vol. 256, no. 4, pp. 1265–1267, 2009.&lt;/li&gt;
-&lt;li&gt;K. Makita, T. Tanakamaru, M. Takeuchi, H. Uchida, and Y. Matsumura, “Effects of Ion Bombardment on Magnetostrictive Properties of Giant Magnetostrictive Thin Films,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 72, no. 9, pp. 714–718, Sep. 2008.&lt;/li&gt;
-&lt;li&gt;Y. Sakai, A. Oowada, Y. Gotoh, M. Takeuchi, M. Nagao, S. Sakai, T. Kimoto, H. Tsuji, and J. Ishikawa, “Energy distribution of electrons emitted from silicon based field emitter arrays measured by energy analyzer with hemispherical collector,” Tech. Dig. 21th Int. Vac. Nanoelectron. Conf. 2008, IVNC2008, pp. 120–121, Jun. 2008.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Kojima, A. Oowada, Y. Gotoh, M. Nagao, H. Tsuji, J. Ishikawa, S. Sakai, and T. Kimoto, “Electron-emission properties of silicon field-emitter arrays in gaseous ambient for charge-compensation device,” J. Vac. Sci. Technol. B, vol. 26, no. 2, p. 782, 2008.&lt;/li&gt;
-&lt;li&gt;A. Oowada, M. Takeuchi, Y. Sakai, Y. Gotoh, M. Nagao, H. Tsuji, J. Ishikawa, S. Sakai, and T. Kimoto, “Extension of lifetime of silicon field emitter arrays in oxygen ambient by carbon negative ion implantation,” J. Vac. Sci. Technol. B, vol. 26, no. 2, p. 876, 2008.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Gotoh, H. Tsuji, J. Ishikawa, and S. Sakai, “Development of low energy ion beam system for space charge compensation experiments.,” Rev. Sci. Instrum., vol. 79, no. 2, p. 02B712, 2008.&lt;/li&gt;
-&lt;li&gt;Y. Tatemoto, R. Ishikawa, M. Takeuchi, T. Takeshita, K. Noda, and T. Okazaki, “An Electrospray Method Using a Multi-Capillary Nozzle Emitter,” Chem. Eng. Technol., vol. 30, no. 9, pp. 1274–1279, Sep. 2007.&lt;/li&gt;
-&lt;li&gt;A. Oowada, T. Kojima, M. Takeuchi, and Y. Gotoh, “水素ガス導入下における Si : C 電界放出電子源の経時変化の測定 Long Time Operation of Si : C Field Emitter Arrays in H 2 Gas Atmosphere,” J. Vac. Soc. Jpn., vol. 50, no. 3, pp. 24–26, 2007.&lt;/li&gt;
-&lt;li&gt;K. Muramatsu, T. O. Yamaki, N. Matsuoka, M. Takeuchi, Y. Matsumura, and H. Uchida, “Effects of oblique deposition on magnetostrictive characteristics of TbFe2 films formed by ion plating,” Journal of Alloys and Compounds, vol. 408, pp. 335–339, Feb. 2006.&lt;/li&gt;
-&lt;li&gt;M. Morita, N. Matsuoka, K. Muramatsu, M. Takeuchi, and Y. Matsumura, “Magnetostrictive Characteristics of Fe-Al Films,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 70, no. 8, p. 622, 2006.&lt;/li&gt;
-&lt;li&gt;T. Tanakamaru, N. Matsuoka, M. Takeuchi, and Y. Matsumura, “Sm-Fe Thin Film Prepared by Reactive Sputtering Process,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 70, no. 8, pp. 615–617, 2006.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, H. Uchida, and undefined author, “INFLUENCE OF ION BEAM INDUCED MODIFICATIONS ON MAGNETOSTRICTIVE PROPERTY OF A RFe,” pp. 1–4, Aug. 2005.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, and H. Uchida, “R-Fe ( R : Tb , Sm ) 薄膜の磁歪へ及ぼす Ar イオン照射に より誘起された残留応力の影響,” J. Japan Inst. Metals, vol. 69, no. 8, pp. 667–670, 2005.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, and H. Uchida, “Effect of Residual Stress Induced by Ar Ion Irradiation on Magnetostriction of R-Fe (R: Tb, Sm) Thin Film,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 69, no. 8, p. 667, 2005.&lt;/li&gt;
-&lt;li&gt;A. Kadowaki, Y. Nishi, M. Takeuchi, and Y. Matsumura, “Giant magnetostrictive iron-based alloy thin film for optical scanner,” Smart Materials, Nano-, and Micro-Smart Systems, vol. 5648, pp. 21–28, Apr. 2004.&lt;/li&gt;
-&lt;li&gt;A. Kadowaki, M. Takeuchi, Y. Matsumura, and Y. Nishi, “光走査用Tb-Fe超磁歪合金薄膜の磁気特性,” J. Japan Inst. Metals, vol. 68, no. 2, pp. 126–129, 2004.&lt;/li&gt;
-&lt;li&gt;A. Kadowaki, Y. Nishi, M. Takeuchi, and Y. Matsumura, “Giant magnetostrictive iron-based alloy thin film for optical scanner,” Proceedings of SPIE, vol. 5648, pp. 21–28, 2004.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, and H. Uchida, “DCマグネトロンスパッタリング法によるFe-Ga合金薄膜の作製,” J. Japan Inst. Metals, vol. 68, no. 2, pp. 142–144, 2004.&lt;/li&gt;
-&lt;li&gt;K. Muramatsu, N. Matsuoka, and M. Takeuchi, “Characteristics of Fe system magnetostrictive thin film by plasma process,” …, 2004.&lt;/li&gt;
-&lt;li&gt;A. Kadowaki, M. Takeuchi, Y. Matsumura, and N. YOSHITAKE, “Magnetic Characteristics of Tb-Fe Giant Magnetostrictive Alloy Thin Film for Optical Scanner,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 68, no. 2, pp. 126–129, 2004.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, H. Uchida, and T. Kuji, “Ar ion beam irradiation effects on magnetostrictive characteristics of Tb-Fe thin film,” MATERIALS TRANSACTIONS, vol. 45, no. 2, pp. 225–228, 2004.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, and H. Uchida, “Preparation of Fe-Ga thin films by DC magnetron sputtering.,” 日本金屬學會誌= Journal of the Japan Institute of Metals, vol. 68, no. 2, pp. 142–144, 2004.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Onozaki, Y. Matsumura, H. Uchida, and T. Kuji, “Photoinduced hydrophilicity of TiO2 thin film modified by Ar ion beam irradiation,” Nuclear Instruments and Methods in Physics Research Section B: Beam Interactions with Materials and Atoms, vol. 206, pp. 259–263, May 2003.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, N. Matsuoka, and Y. Matsumura, “The Magnetostrictive characteristics of Fe system alloys thin film,” …, 2003.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, T. Shimizu, H. Uchida, Y. Matsumura, M. Ono, and A. Tonegawa, “The post-treatments Effects on giant magnetostrictive thin films.,” Electromagnetics, vol. 14, pp. 717–720, 2002.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Matsumura, H. Uchida, and T. Kuji, “Magnetostrictive characteristics of Tb-Fe-Si thin films prepared by magnetron sputtering,” Proc of SPIE Smart Materials …, 2002.&lt;/li&gt;
-&lt;li&gt;K. Ishida, M. Takeuchi, T. Haraki, Y. Matsumura, H. Uchida, T. Kuji, H. Minagawa, T. Okutani, and K. Kamada, “Preparation of Tb-Fe giant magnetostrictive alloys under microgravity conditions.,” J. Adv. Sci, vol. 13, no. 3, pp. 431–433, 2001.&lt;/li&gt;
-&lt;li&gt;M. Takeuchi, Y. Asada, K. Ishida, T. Haraki, Y. Matsumura, H. Uchida, and T. Kuji, “Characterization of giant magnetostrictive composite,” JOURNAL OF ADVANCED SCIENCE, vol. 13, no. 3, pp. 427–430, 2001.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>ResearchGate.net My ResearchGate.net site is here.
+Peer-reviewed papers  M. Takeuchi, Y. Hoshide, H. Ryuto and G. H. Takaoka, “Sputtering of silicon and glass substrates with polyatomic molecular ion beams generated from ionic liquids,” Journal of Vacuum Science &amp;amp; Technology A 34 (2016) (accepted). F. Musumeci, H. Ryuto, A. Sakata, M. Takeuchi and G. H. Takaoka, “Spectroscopic evidences of high temperatures and pressures during the cluster ion beam interaction with solid surfaces,” Journal of Luminescence 172, 224&amp;ndash;230 (2016).</description>
     </item>
     
     <item>
@@ -177,24 +84,7 @@
       <pubDate>Fri, 15 Jan 2016 08:22:24 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/research/</guid>
-      <description>
-
-&lt;h1 id=&#34;research-themes:42f623b3bad309d5d6619d450af47d40&#34;&gt;Research Themes&lt;/h1&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;./ilis_dev&#34;&gt;Development of Ionic Liquid Ion Sorce (ILIS)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./irra_eff&#34;&gt;Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./appl&#34;&gt;Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;研究テーマ:42f623b3bad309d5d6619d450af47d40&#34;&gt;研究テーマ&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;./ilis_dev&#34;&gt;イオン液体イオン源(ILIS)の開発&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./irra_eff&#34;&gt;固体表面に対するイオン液体イオンビームの照射効果&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./appl&#34;&gt;イオン液体イオンビームのSIMSやメタルフリーFIBへの応用&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description> Research Themes  Development of Ionic Liquid Ion Sorce (ILIS) Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB  研究テーマ  イオン液体イオン源(ILIS)の開発 固体表面に対するイオン液体イオンビームの照射効果 イオン液体イオンビームのSIMSやメタルフリーFIBへの応用  </description>
     </item>
     
     <item>
@@ -203,156 +93,11 @@
       <pubDate>Fri, 15 Jan 2016 07:19:01 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/aboutme/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://m-takeuchi.github.io/my_photo.jpg&#34; alt=&#34;photo&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mitsuaki Takeuchi,&lt;/strong&gt; Ph.D.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;CONTACT: m-takeuchi@kuee.kyoto-u.ac.jp&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Affiliated academic organization(s)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The Japan Society of Applied Physics&lt;/li&gt;
-&lt;li&gt;The Vacuum Society of Japan&lt;/li&gt;
-&lt;li&gt;American Vacuum Society&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;EXPERIENCE&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Affiliation&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Position&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;April, 2008 &amp;ndash;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Kyoto University, Photonics and Electronics Science and Engineering Center&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Research Associate&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;April, 2006 &amp;ndash; March, 2008&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;JST, Innovation Plaza Kyoto, Ishikawa Project&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;PostDoc&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-&lt;li&gt;EDUCATION&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Term&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Affiliation&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Degree&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;April, 2003 &amp;ndash; March, 2006&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Tokai Universiy, Graduate School of Engineering, Course of Applied Science&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Ph.D. in Engineering&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;April, 2001 &amp;ndash; March, 2003&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Tokai Universiy, Graduate School of Engineering, Course of Applied Science&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;M.S. in Engineering&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;April, 1997 &amp;ndash; March, 2001&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Tokai Universiy, School of Engineering, Department of Applied Physics&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;B.S. in Engineering&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;竹内 光明&lt;/strong&gt; 博士(工学)&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;所属学会&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;応用物理学会&lt;/li&gt;
-&lt;li&gt;日本真空学会&lt;/li&gt;
-&lt;li&gt;American Vacuum Society&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;職歴&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;期間&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;所属&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;職位&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2008年4月 &amp;ndash;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;京都大学大学院工学研究科附属光･電子理工学教育研究センター&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;助教&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2006年4月 &amp;ndash; 2008年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;JSTイノベーションプラザ京都 石川プロジェクト&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;博士研究員&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ul&gt;
-&lt;li&gt;学歴&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;期間&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;所属&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;学位&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2003年4月 &amp;ndash; 2006年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東海大学大学院工学研究科応用理学専攻博士課程後期&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;博士(工学)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2001年4月 &amp;ndash; 2003年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東海大学大学院工学研究科応用理学専攻博士課程前期&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;修士(工学)&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;1997年4月 &amp;ndash; 2001年3月&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;東海大学工学部応用物理学科&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;学士(工学)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
+      <description>Mitsuaki Takeuchi, Ph.D.
+ CONTACT: m-takeuchi@kuee.kyoto-u.ac.jp
+ Affiliated academic organization(s)
+ The Japan Society of Applied Physics The Vacuum Society of Japan American Vacuum Society  EXPERIENCE
+     Term Affiliation Position     April, 2008 &amp;ndash; Kyoto University, Photonics and Electronics Science and Engineering Center Research Associate   April, 2006 &amp;ndash; March, 2008 JST, Innovation Plaza Kyoto, Ishikawa Project PostDoc     EDUCATION     Term Affiliation Degree     April, 2003 &amp;ndash; March, 2006 Tokai Universiy, Graduate School of Engineering, Course of Applied Science Ph.</description>
     </item>
     
     <item>
@@ -361,8 +106,7 @@
       <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/2016/01/12/test/</guid>
-      <description>&lt;p&gt;HugoとGithub Pagesでウェブサイトをはじめました.&lt;/p&gt;
-</description>
+      <description>HugoとGithub Pagesでウェブサイトをはじめました.</description>
     </item>
     
   </channel>

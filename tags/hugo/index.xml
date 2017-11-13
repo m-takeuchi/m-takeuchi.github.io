@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Mitsuaki Takeuchi&#39;s Web Site</title>
+    <link>http://m-takeuchi.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Mitsuaki Takeuchi&#39;s Web Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
+    <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
+    <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
+    <lastBuildDate>Mon, 13 Nov 2017 17:23:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://m-takeuchi.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2017 11 13_hisashiburi</title>
+      <link>http://m-takeuchi.github.io/2017/11/13/2017-11-13_hisashiburi/</link>
+      <pubDate>Mon, 13 Nov 2017 17:23:04 +0900</pubDate>
+      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
+      <guid>http://m-takeuchi.github.io/2017/11/13/2017-11-13_hisashiburi/</guid>
+      <description> ひさしぶりにhugoを使うので全く忘れてしまった.  test, test  </description>
+    </item>
+    
+  </channel>
+</rss>

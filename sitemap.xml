@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://m-takeuchi.github.io/</loc>
-    <lastmod>2016-02-23T14:28:15+09:00</lastmod>
-    <priority>0</priority>
+    <loc>http://m-takeuchi.github.io/2017/11/13/2017-11-13_hisashiburi/</loc>
+    <lastmod>2017-11-13T17:23:04+09:00</lastmod>
   </url>
   
   <url>
@@ -50,6 +50,101 @@
   <url>
     <loc>http://m-takeuchi.github.io/2016/01/12/test/</loc>
     <lastmod>2016-01-12T10:52:35+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/</loc>
+    <lastmod>2016-01-15T08:30:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/application/</loc>
+    <lastmod>2016-02-23T14:28:07+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/atom/</loc>
+    <lastmod>2016-01-17T22:26:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/blog/</loc>
+    <lastmod>2016-01-12T10:52:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/editor/</loc>
+    <lastmod>2016-01-17T22:26:56+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/hugo/</loc>
+    <lastmod>2017-11-13T17:23:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/ilis/</loc>
+    <lastmod>2016-02-23T14:28:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/ionic-liquid/</loc>
+    <lastmod>2016-02-23T14:28:00+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/irradiation-effect/</loc>
+    <lastmod>2016-02-23T14:28:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/</loc>
+    <lastmod>2017-11-13T17:23:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/post/</loc>
+    <lastmod>2017-11-13T17:23:04+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/research/</loc>
+    <lastmod>2016-02-23T14:28:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/research/</loc>
+    <lastmod>2016-02-23T14:28:15+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/</loc>
+    <lastmod>2016-01-15T08:30:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/tags/test/</loc>
+    <lastmod>2016-01-12T10:52:35+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://m-takeuchi.github.io/topics/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>

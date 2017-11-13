@@ -10,7 +10,9 @@
     <webMaster>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</webMaster>
     <copyright>(c) 2016 Mitsuaki Takeuchi.</copyright>
     <lastBuildDate>Tue, 23 Feb 2016 14:28:00 +0900</lastBuildDate>
-    <atom:link href="http://m-takeuchi.github.io/tags/ionic-liquid/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://m-takeuchi.github.io/tags/ionic-liquid/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Development of Ionic Liquid Ion Source</title>
@@ -18,12 +20,7 @@
       <pubDate>Tue, 23 Feb 2016 14:28:00 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
       <guid>http://m-takeuchi.github.io/research/ilis_dev/</guid>
-      <description>
-
-&lt;h3 id=&#34;イオン液体って何&#34;&gt;イオン液体って何?&lt;/h3&gt;
-
-&lt;h3 id=&#34;イオン液体をイオンビームにすると何がうれしいの&#34;&gt;イオン液体をイオンビームにすると何がうれしいの?&lt;/h3&gt;
-</description>
+      <description> イオン液体って何? イオン液体をイオンビームにすると何がうれしいの? </description>
     </item>
     
   </channel>
