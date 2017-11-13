@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mitsuaki Takeuchi&#39;s Web Site</title>
+    <title>Mitsuaki Takeuchi&#39;s Web Site</title>
     <link>http://m-takeuchi.github.io/tags/</link>
-    <description>Recent content in Tags on Mitsuaki Takeuchi&#39;s Web Site</description>
+    <description>Recent content on Mitsuaki Takeuchi&#39;s Web Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <managingEditor>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</managingEditor>
@@ -15,102 +15,67 @@
     
     
     <item>
-      <title></title>
-      <link>http://m-takeuchi.github.io/tags/</link>
+      <title>Publications</title>
+      <link>http://m-takeuchi.github.io/publications/</link>
       <pubDate>Fri, 15 Jan 2016 08:30:30 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/publications/</guid>
+      <description>ResearchGate.net My ResearchGate.net site is here.
+Peer-reviewed papers  M. Takeuchi, Y. Hoshide, H. Ryuto and G. H. Takaoka, “Sputtering of silicon and glass substrates with polyatomic molecular ion beams generated from ionic liquids,” Journal of Vacuum Science &amp;amp; Technology A 34 (2016) (accepted). F. Musumeci, H. Ryuto, A. Sakata, M. Takeuchi and G. H. Takaoka, “Spectroscopic evidences of high temperatures and pressures during the cluster ion beam interaction with solid surfaces,” Journal of Luminescence 172, 224&amp;ndash;230 (2016).</description>
     </item>
     
     <item>
-      <title>Application</title>
-      <link>http://m-takeuchi.github.io/tags/application/</link>
-      <pubDate>Tue, 23 Feb 2016 14:28:07 +0900</pubDate>
+      <title>Publications</title>
+      <link>http://m-takeuchi.github.io/publications/</link>
+      <pubDate>Fri, 15 Jan 2016 08:30:30 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/application/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/publications/</guid>
+      <description>ResearchGate.net My ResearchGate.net site is here.
+Peer-reviewed papers  M. Takeuchi, Y. Hoshide, H. Ryuto and G. H. Takaoka, “Sputtering of silicon and glass substrates with polyatomic molecular ion beams generated from ionic liquids,” Journal of Vacuum Science &amp;amp; Technology A 34 (2016) (accepted). F. Musumeci, H. Ryuto, A. Sakata, M. Takeuchi and G. H. Takaoka, “Spectroscopic evidences of high temperatures and pressures during the cluster ion beam interaction with solid surfaces,” Journal of Luminescence 172, 224&amp;ndash;230 (2016).</description>
     </item>
     
     <item>
-      <title>Atom</title>
-      <link>http://m-takeuchi.github.io/tags/atom/</link>
-      <pubDate>Sun, 17 Jan 2016 22:26:56 +0900</pubDate>
+      <title></title>
+      <link>http://m-takeuchi.github.io/research/</link>
+      <pubDate>Fri, 15 Jan 2016 08:22:24 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/atom/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/research/</guid>
+      <description> Research Themes  Development of Ionic Liquid Ion Sorce (ILIS) Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB  研究テーマ  イオン液体イオン源(ILIS)の開発 固体表面に対するイオン液体イオンビームの照射効果 イオン液体イオンビームのSIMSやメタルフリーFIBへの応用  </description>
     </item>
     
     <item>
-      <title>Blog</title>
-      <link>http://m-takeuchi.github.io/tags/blog/</link>
-      <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
+      <title></title>
+      <link>http://m-takeuchi.github.io/research/</link>
+      <pubDate>Fri, 15 Jan 2016 08:22:24 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/blog/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/research/</guid>
+      <description> Research Themes  Development of Ionic Liquid Ion Sorce (ILIS) Irradiation Effects of Ionic Liquid Ion Beams on Solid Surfaces Application of Ionic Liquid Ion Beams for SIMS and Metal-Free FIB  研究テーマ  イオン液体イオン源(ILIS)の開発 固体表面に対するイオン液体イオンビームの照射効果 イオン液体イオンビームのSIMSやメタルフリーFIBへの応用  </description>
     </item>
     
     <item>
-      <title>Editor</title>
-      <link>http://m-takeuchi.github.io/tags/editor/</link>
-      <pubDate>Sun, 17 Jan 2016 22:26:56 +0900</pubDate>
+      <title>About Me</title>
+      <link>http://m-takeuchi.github.io/aboutme/</link>
+      <pubDate>Fri, 15 Jan 2016 07:19:01 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/editor/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/aboutme/</guid>
+      <description>Mitsuaki Takeuchi, Ph.D.
+ CONTACT: m-takeuchi@kuee.kyoto-u.ac.jp
+ Affiliated academic organization(s)
+ The Japan Society of Applied Physics The Vacuum Society of Japan American Vacuum Society  EXPERIENCE
+     Term Affiliation Position     April, 2008 &amp;ndash; Kyoto University, Photonics and Electronics Science and Engineering Center Research Associate   April, 2006 &amp;ndash; March, 2008 JST, Innovation Plaza Kyoto, Ishikawa Project PostDoc     EDUCATION     Term Affiliation Degree     April, 2003 &amp;ndash; March, 2006 Tokai Universiy, Graduate School of Engineering, Course of Applied Science Ph.</description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://m-takeuchi.github.io/tags/hugo/</link>
-      <pubDate>Mon, 13 Nov 2017 17:23:04 +0900</pubDate>
+      <title>About Me</title>
+      <link>http://m-takeuchi.github.io/aboutme/</link>
+      <pubDate>Fri, 15 Jan 2016 07:19:01 +0900</pubDate>
       <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ilis</title>
-      <link>http://m-takeuchi.github.io/tags/ilis/</link>
-      <pubDate>Tue, 23 Feb 2016 14:28:00 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/ilis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ionic Liquid</title>
-      <link>http://m-takeuchi.github.io/tags/ionic-liquid/</link>
-      <pubDate>Tue, 23 Feb 2016 14:28:00 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/ionic-liquid/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Irradiation Effect</title>
-      <link>http://m-takeuchi.github.io/tags/irradiation-effect/</link>
-      <pubDate>Tue, 23 Feb 2016 14:28:15 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/irradiation-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://m-takeuchi.github.io/tags/research/</link>
-      <pubDate>Tue, 23 Feb 2016 14:28:15 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://m-takeuchi.github.io/tags/test/</link>
-      <pubDate>Tue, 12 Jan 2016 10:52:35 +0900</pubDate>
-      <author>m-takeuchi_at_kuee.kyoto-u.ac.jp (Mitsuaki Takeuchi)</author>
-      <guid>http://m-takeuchi.github.io/tags/test/</guid>
-      <description></description>
+      <guid>http://m-takeuchi.github.io/aboutme/</guid>
+      <description>Mitsuaki Takeuchi, Ph.D.
+ CONTACT: m-takeuchi@kuee.kyoto-u.ac.jp
+ Affiliated academic organization(s)
+ The Japan Society of Applied Physics The Vacuum Society of Japan American Vacuum Society  EXPERIENCE
+     Term Affiliation Position     April, 2008 &amp;ndash; Kyoto University, Photonics and Electronics Science and Engineering Center Research Associate   April, 2006 &amp;ndash; March, 2008 JST, Innovation Plaza Kyoto, Ishikawa Project PostDoc     EDUCATION     Term Affiliation Degree     April, 2003 &amp;ndash; March, 2006 Tokai Universiy, Graduate School of Engineering, Course of Applied Science Ph.</description>
     </item>
     
   </channel>
